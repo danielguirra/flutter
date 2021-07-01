@@ -1,7 +1,4 @@
 # Name Generator
 
 
-
-## Getting Started
-
-This project is a Flutter application.
+This project is a Flutter application for studies.
