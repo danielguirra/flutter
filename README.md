@@ -1,4 +1,4 @@
-# flutter_application_1
+# New app for studies
 
 A new Flutter project.
 
