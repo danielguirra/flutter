@@ -1,4 +1,4 @@
-# Gerator for Names 
+# Name Generator
 
 
 
